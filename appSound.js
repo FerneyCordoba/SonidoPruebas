@@ -11,7 +11,8 @@ const data = JSON.stringify({
     content: {
       type: "audio",
       audio: {
-        url: "https://api.twilio.com/cowbell.mp3",
+        url:
+          "https://github.com/FerneyCordoba/SonidoPruebas/raw/master/sound/cowbell.mp3",
       },
     },
   },
